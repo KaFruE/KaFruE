@@ -15,6 +15,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaFruE)](https://github.com/KaFruE/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaFruE)](https://github.com/KaFruE/github-readme-stats)
 
 
 <h3 align="center"> Tech Stack 🌱</h3>
@@ -33,8 +34,7 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>&nbsp 
 <br>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
-
-<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp</p> -->
+</p>
 
 
 <h3 align="center"> 👀 More About Me </h3>
@@ -44,3 +44,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
