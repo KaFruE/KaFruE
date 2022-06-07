@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongwan%20Yug&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-<p align='center'>Hi there</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongwan%20Yug&fontSize=90&animation=fadeIn&fontAlignY=38)
+<h3 align="center"> Hi there 🌱 </h3>
 
 
 <p align=center>
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...  -->
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/KaFruE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaFruE)](https://github.com/KaFruE/github-readme-stats)
 
 
 <h3 align="center"> Tech Stack 🌱</h3>
