@@ -16,7 +16,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaFruE&layout=compact)](https://github.com/KaFruE/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaFruE&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaFruE)](https://github.com/KaFruE/github-readme-stats)
 
 <h3 align="center"> Tech Stack 🌱</h3>
 <p align="center"> Techs that I'v used at least once </p>
