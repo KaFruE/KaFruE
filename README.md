@@ -1,4 +1,6 @@
-<h3 align="center"> 🍎 Hi there ✌🏻 </h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongwan%20Yug&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<p align='center'>Hi there</p>
+
 
 <p align=center>
  I'm back-end developer
@@ -12,7 +14,10 @@
 - ⚡ Fun fact: ...  -->
 </p>
 
-<h3 align="center"> Tech Stack 🧺</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/KaFruE/github-readme-stats)
+
+
+<h3 align="center"> Tech Stack 🌱</h3>
 <p align="center"> Techs that I'v used at least once </p>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
