@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaFruE&langs_count=10&layout=compact&theme=dark"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaFruE&langs_count=10&hide=Hack,CSS&layout=compact&theme=dark"><br><br>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
