@@ -41,8 +41,8 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaFruE&layout=compact)](https://github.com/KaFruE/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaFruE&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
